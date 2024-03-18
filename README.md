@@ -1,4 +1,4 @@
-<h3 style="color:grey">UBC Key Capabilities in Data Science The Data Science Toolbox Assignment</h3>
+#### *UBC Key Capabilities in Data Science The Data Science Toolbox Assignment*
 
 # My Favorite Recipe
 
