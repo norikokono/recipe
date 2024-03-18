@@ -1,4 +1,4 @@
-### UBC Key Capabilities in Data Science The Data Science Toolbox Assignment
+<h3 style="color:grey">UBC Key Capabilities in Data Science The Data Science Toolbox Assignment</h3>
 
 # My Favorite Recipe
 
