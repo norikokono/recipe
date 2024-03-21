@@ -12,5 +12,3 @@
 
 ### This is a REMOTE change :O
 
-This is a local change 🍩
-This is a Remote change 🍪
