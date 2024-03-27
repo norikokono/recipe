@@ -12,31 +12,3 @@
 
 ### This is a REMOTE change :O
 
-----------------------------------------------
-### I just love ***black forest cake***.
-
-<span style="color:Maroon">**black forest cake** 🍒</span>
-
-1. 🍨
-2. 🧁
-3. 🍩
-    1. 🍰
-    2. 🥧
-    3. 🍦
-4. 🍪
-5. 🍮
-
-- 🍓
-- 🍒
-- 🍇
-    - 🫐
-    - 🍐
-- 🍏
-- 🍉
-- 🥝
-
-------------------------------------------------
-
-![black forest cake image 1](black_forest_cake_images/black-forest-cake-10.jpg)
-
-<img src="black_forest_cake_images/black-forest-cake-12.jpg" width="400" height="500">
